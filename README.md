@@ -1,0 +1,3 @@
+- one_hour_dungeon.py:參考pygame模組的書籍做出的小遊戲
+- opencv5.py:練習控制眼睛辨識模型的效果
+- pokemon_Damage.py:套入自己在玩的遊戲公式來計算數據，方便自己使用
